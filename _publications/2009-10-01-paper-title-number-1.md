@@ -6,14 +6,6 @@ collection: publications
 date: 2020-06-23
 venue: 'Frontiers in Robotics and AI'
 paperurl: 'http://academicpages.github.io/files/frobt-07-00071.pdf'
-citation: '@article{wang2020elderly,
-  title={Elderly fall detection systems: A literature survey},
-  author={Wang, Xueyi and Ellul, Joshua and Azzopardi, George},
-  journal={Frontiers in Robotics and AI},
-  volume={7},
-  pages={71},
-  year={2020},
-  publisher={Frontiers Media SA}
-}'
+
 ---
 
